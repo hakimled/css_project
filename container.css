@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+}
+body{
+    height: 300vh;
+}
+.navbar{
+    background-color: turquoise;
+    height: 100px;
+    position: fixed;
+    width: 10%;
+    height: 100%;
+    right: 0;
+}
