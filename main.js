@@ -1,1 +1,1 @@
-document.querySelector('h1').style.color = '#777';
+// document.querySelector('h1').style.color = '#777';
