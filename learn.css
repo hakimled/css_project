@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: yellow;
+    height: 300vh;
+}
+h1{
+    text-align: center;
+    font-size: 34px;
+    color: #444;
+    border: none;
+    background-color: turquoise;
+    height: 100px;
+    position: fixed;
+    width: 100%;
+}
