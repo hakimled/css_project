@@ -1,11 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
 body{
-    background-color: lightblue;
+    background-color: dodgerblue;
+}
+header{
+    height: 200px;
+    background-color: yellow;
 }
 
 h1{
     color: #fff;
     text-align: center;
     font-size: 40px;
+    background-color: lightblue;
     text-transform: uppercase;
     
+}
+.container{
+    width: 80%;
+    background-color: yellow;
+    margin: auto;
+}
+.container .profile{
+    height: 100px;
+    background-color: lightblue;
+}
+footer{
+    height: 100px;
+    background-color: #ddd;
+    width: 100%;
+    margin-top: 10px;
 }
